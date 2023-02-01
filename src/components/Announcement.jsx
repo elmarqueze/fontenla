@@ -14,7 +14,7 @@ const Container = styled.div`
 const Announcement = () => {
   return (
     <Container>
-        Free delivery for purchases over S/100 soles.
+        Free delivery for purchases over S/.100 soles.
     </Container>
   )
 }
