@@ -9,7 +9,7 @@ const Home = () => {
     <div>
         <Announcement />
         <Navbar />
-        <ItemListContainer categorie1= 'KIDS' categorie2= 'MEN' categorie3= 'ACCESORIES'/>
+        <ItemListContainer />
     </div>
 
   )
