@@ -1,21 +1,21 @@
 export const sliderItems = [
     {
       id: 1,
-      img: "https://i.ibb.co/XsdmR2c/1.png",
+      img: "https://www.nicepng.com/png/full/75-759758_black-man-in-suit-png-barron.png",
       title: "SUMMER SALE",
       desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
       bg: "f5fafd",
     },
     {
       id: 2,
-      img: "https://i.ibb.co/DG69bQ4/2.png",
+      img: "https://www.pngarts.com/files/3/Men-Suit-PNG-Image.png",
       title: "AUTUMN COLLECTION",
       desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
       bg: "fcf1ed",
     },
     {
       id: 3,
-      img: "https://i.ibb.co/cXFnLLV/3.png",
+      img: "https://www.freeiconspng.com/thumbs/men-suit-png/man-suit-png-28.png",
       title: "LOUNGEWEAR LOVE",
       desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
       bg: "fbf0f4",
@@ -47,15 +47,15 @@ export const sliderItems = [
     },
     {
       id:2,
-      img:"https://www.pngplay.com/wp-content/uploads/9/Jeans-PNG-Free-File-Download.png",
+      img:"https://wearediversis.com/wp-content/uploads/2023/02/demo-image.png",
     },
     {
       id:3,
-      img:"https://www.prada.com/content/dam/pradanux_products/U/UCS/UCS319/1YOTF010O/UCS319_1YOT_F010O_S_182_SLF.png",
+      img:"https://www.pngkey.com/png/full/315-3153798_barack-obama-hawaiian-shirt.png",
     },
     {
       id:4,
-      img:"https://www.freepnglogos.com/uploads/garments-png/sardar-garments-fast-shipping-trendy-apparel-39.png",
+      img:"https://harley-davidsonbangkok.com/shop/wp-content/uploads/2022/04/97676-22VM-removebg-preview.png",
     },
     {
       id:5,
@@ -67,7 +67,7 @@ export const sliderItems = [
     },
     {
       id:7,
-      img:"https://pbx2-pbww-prod-pbww-cdn.getprintbox.com/media/productimage/e925de22-44e0-4276-bb92-0b4101f5f834/Blank%20Jacket_thumb_900x900",
+      img:"https://www.pngall.com/wp-content/uploads/2016/05/Jacket-PNG-Pic.png",
     },
     {
       id:8,
